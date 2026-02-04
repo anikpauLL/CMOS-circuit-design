@@ -1,5 +1,4 @@
 # CMOS-circuit-design
-# CMOS Circuit Design Projects
 
 ## Overview
 This repository contains transistor-level CMOS circuit design projects developed using **Cadence Virtuoso** as part of undergraduate VLSI coursework at **Chittagong University of Engineering and Technology (CUET)**.
